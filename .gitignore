@@ -1,0 +1,19 @@
+# virtual env
+.venv/
+venv/
+
+# outputs and logs
+outputs/
+*.json
+
+# videos
+data/videos/
+*.mp4
+
+# model weights
+models/*.pt
+*.pt
+
+# python cache
+__pycache__/
+*.pyc
